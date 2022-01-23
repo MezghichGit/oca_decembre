@@ -7,7 +7,7 @@ public class LesTableaux {
 	public static void main(String[] args) {
 		/*
 		int []tab = {10,2,14}; // déclaration +instaciation+ initialisation
-		System.out.println(tab.length);
+		System.out.println(tab.length); // length : property
 		System.out.println(tab[0]);
 		System.out.println(tab[1]);
 		System.out.println(tab[2]);*/
@@ -61,7 +61,7 @@ public class LesTableaux {
 		{
 			System.out.println(e);
 			continue;
-			compteur++; // code unreachable
+			//compteur++; // code unreachable
 			
 		}
 		
